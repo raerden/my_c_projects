@@ -1,0 +1,12 @@
+	Test file1
+Lorem ipsum dolor sit amet
+consectetur adipiscing elit.
+
+Vestibulum bibendum ligula vitae augue
+Duis efficitur fringilla justo id molestie.
+
+
+	In facilisis at quam et ultrices.
+		Proin scelerisque lobortis augue
+
+Vestibulum id bibendum turpis, mattis aliquet diam.

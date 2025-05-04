@@ -1,0 +1,12 @@
+Text in file2
+tab	tab	
+empty lines
+
+
+
+
+end 4 empty lines
+
+	Next one empty line	
+
+end one empty line
